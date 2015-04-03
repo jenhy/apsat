@@ -1,1 +1,2 @@
 class CAutoTestConfig(object):
+pass
